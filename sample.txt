@@ -1,1 +1,3 @@
 this is sample file of git
+
+I'm add a anew line
